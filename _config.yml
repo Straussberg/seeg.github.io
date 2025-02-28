@@ -1,0 +1,10 @@
+title: "SEEG - Sistema de Equilíbrio Econômico Global"
+description: "Uma abordagem inovadora para a redistribuição de riqueza utilizando inteligência artificial colaborativa."
+author: "Jean Lauro Muller e Equipe de IAs"
+email: "seu-email@example.com"
+theme: minima
+
+# Adicionando links ao menu
+header_pages:
+  - seeg-tecnico.md
+  - seeg-popular.md
